@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HandlingExceptions": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\"
+    }
+  }
+}
